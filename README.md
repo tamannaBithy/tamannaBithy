@@ -18,7 +18,7 @@
 
 - Writing `JavaScript`.
 - Mostly active on <a href="https://www.linkedin.com/in/tamanna-akter/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a>.
-- Building **[CHT-Travel](https://cht-travel.netlify.app/)** as an travel agency project.
+<!-- - Building **[CHT-Travel](https://cht-travel.netlify.app/)** as an travel agency project. -->
 
 #### What I like to discuss about?
 
