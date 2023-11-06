@@ -2,7 +2,7 @@
 
 #### Who I am?
 
-- A Full-Stack Developer based in **[Cumilla](https://en.wikipedia.org/wiki/Comilla), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).**
+- A React Js Developer based in **[Cumilla](https://en.wikipedia.org/wiki/Comilla), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).**
 - Have 1 years of hands-on experience in **Frontend Development, React.js.**
 - Visit my portfolio at **https://tamanna-portfolio.vercel.app/**
 
@@ -11,9 +11,9 @@
 - Writing `JavaScript`.
 - Mostly active on <a href="https://www.linkedin.com/in/tamanna-akter/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a>. -->
 
-#### What I like to discuss about?
+<!-- #### What I like to discuss about?
 
-- 💬 Ask me about `React.js` `Node.js` `web APIs` and `tech culture`.
+- 💬 Ask me about `React.js` `Node.js` `web APIs` and `tech culture`. -->
 
 #### What my skill set looks like?
 
@@ -47,14 +47,14 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamannaBithy"/>
 </p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<!-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React.js](https://img.shields.io/badge/-ReactJs-23272F?logo=react&logoColor=149ECA&style=for-the-badge)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-07B0CE?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-292929?logo=express&logoColor=white&style=for-the-badge)
-![Mongoose](https://img.shields.io/badge/Mongoose-yellowgreen?style=for-the-badge)
+![Mongoose](https://img.shields.io/badge/Mongoose-yellowgreen?style=for-the-badge) -->
 
 #### How to get in touch with me?
 
