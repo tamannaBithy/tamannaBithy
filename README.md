@@ -1,12 +1,4 @@
-<!--
-[website]: https://taibislamdipu.netlify.app/
-[facebook]: https://web.facebook.com/chayabithy.kusum/
-[twitter]: https://twitter.com/BithyTamanna
-[linkedin]: https://www.linkedin.com/in/tamanna-akter/
-[medium]: https://taibislamdipu.medium.com/
-[email]: tamannabithy14@gmail.com -->
-
-### Hi there 👋!
+### Hi there!
 
 #### Who I am?
 
@@ -14,11 +6,10 @@
 - Have 1 years of hands-on experience in **Frontend Development, React.js.**
 - Visit my portfolio at **https://tamanna-portfolio.vercel.app/**
 
-#### What I'm doing?
+<!-- #### What I'm doing?
 
 - Writing `JavaScript`.
-- Mostly active on <a href="https://www.linkedin.com/in/tamanna-akter/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a>.
-<!-- - Building **[CHT-Travel](https://cht-travel.netlify.app/)** as an travel agency project. -->
+- Mostly active on <a href="https://www.linkedin.com/in/tamanna-akter/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a>. -->
 
 #### What I like to discuss about?
 
@@ -38,16 +29,32 @@
   - **Frameworks:** `Express.js`
   - **Databases:** `MongoDB` • `Mongoose`
 
-- 🎡 **Software development ecosystem:**
+<!-- - 🎡 **Software development ecosystem:** -->
 
-  - **Code repository:** `Github` • `AWS`
-  - **Project management:** `Jira` • `Trello`
+  <!-- - **Code repository:** `Github` • `AWS`
+  - **Project management:** `Jira` • `Trello` -->
+
+#### A Few Quick Facts
+
+- Online Judge: **[www.beecrowd.com/@tamannaBithy](https://www.beecrowd.com.br/judge/en/profile/841051)**
+- Portfolio: **[www.tamannaBithy.com](https://tamanna-portfolio.vercel.app/)**
+- Check out my **[Resume](https://drive.google.com/file/d/1GUniI5rvLcs6g2Sbc-0Q9FjsIIP-aHIh/view?usp=sharing)**
 
 <!--Github Stats-->
+
 <p float="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tamannaBithy" /> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamannaBithy"/>
 </p>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React.js](https://img.shields.io/badge/-ReactJs-23272F?logo=react&logoColor=149ECA&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-07B0CE?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-292929?logo=express&logoColor=white&style=for-the-badge)
+![Mongoose](https://img.shields.io/badge/Mongoose-yellowgreen?style=for-the-badge)
 
 #### How to get in touch with me?
 
