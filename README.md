@@ -4,7 +4,7 @@
 
 - A React Js Developer based in **[Cumilla](https://en.wikipedia.org/wiki/Comilla), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).**
 - Have 1 years of hands-on experience in **Frontend Development, React.js.**
-- Visit my portfolio at **https://tamanna-portfolio.vercel.app/**
+- Passionate about trying out new technologies.
 
 <!-- #### What I'm doing?
 
