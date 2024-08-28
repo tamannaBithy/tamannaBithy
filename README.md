@@ -14,7 +14,7 @@ As a Frontend Developer at LetsDunch, I developed and maintained UI components u
 ### A Few Facts
 
 - Online Judge: **[www.beecrowd.com/@tamannabithy](https://www.beecrowd.com.br/judge/en/profile/841051)**
-- Portfolio: **[www.tamannabithy.com](https://tamannaakter.vercel.app)**
+- Portfolio: **[www.tamannabithy.com](https://tamannabithy.vercel.app/)**
 - Check out my **[Resume](https://drive.google.com/file/d/1GUniI5rvLcs6g2Sbc-0Q9FjsIIP-aHIh/view?usp=sharing)**
 
 ### Github Status
