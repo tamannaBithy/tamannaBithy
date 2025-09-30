@@ -7,13 +7,15 @@
 ![Express.js](https://img.shields.io/badge/Express.js-292929?logo=express&logoColor=white&style=for-the-badge)
 ![Mongoose](https://img.shields.io/badge/Mongoose-yellowgreen?style=for-the-badge)
 
-With 1+ years of industry experience, I've worked with NEXT JS, REACT, NODE JS, and MongoDB for database management. I'm proficient with various JavaScript frameworks, and my main interests lie in full-stack web development.
-
-As a Frontend Developer at LetsDunch, I developed and maintained UI components using React.js and Tailwind CSS. I collaborated with cross-functional teams to integrate APIs, implemented features like meeting booking and expert profile updates, and consistently delivered bug fixes and enhancements.
+I have consistently created online web applications over the past 2 years of experience as a full-stack developer
+specializing in React.js, Next.js, Node.js, and MongoDB. I have demonstrated excellence in managing the SDLC and a
+track record of outstanding stakeholder engagement, technical assessment, and project delivery skills. Alongside
+development, I actively enhance my problem-solving skills through platforms like LeetCode and Codeforces, strengthening
+my ability to write efficient, scalable, and optimized solutions.
 
 ### A Few Facts
 
-- Online Judge: **[www.beecrowd.com/@tamannabithy](https://www.beecrowd.com.br/judge/en/profile/841051)**
+- Online Judge: **[codeforces.com/profile/tamannabithy](https://codeforces.com/profile/tamannabithy)**
 - Portfolio: **[www.tamannabithy.com](https://tamannabithy.vercel.app/)**
 - Check out my **[Resume](https://drive.google.com/file/d/1GUniI5rvLcs6g2Sbc-0Q9FjsIIP-aHIh/view?usp=sharing)**
 
